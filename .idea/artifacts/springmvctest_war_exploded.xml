@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="springmvctest:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/springmvctest_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="springmvctest/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="springmvctest" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring MVC" />
+          <element id="file-copy" path="E:/Library/javaJar/commons-fileupload.jar" />
+          <element id="file-copy" path="E:/Library/javaJar/commons-io.jar" />
+          <element id="library" level="project" name="hibernate" />
+          <element id="file-copy" path="E:/Library/javaJar/redisDriver/jedis-2.8.0.jar" />
+          <element id="file-copy" path="E:/Library/javaJar/redisDriver/redisson-3.2.0.jar" />
+          <element id="library" level="project" name="freechat" />
+          <element id="file-copy" path="E:/Library/javaJar/excel/jxl.jar" />
+        </element>
+      </element>
+      <element id="directory" name="Resources">
+        <element id="dir-copy" path="$PROJECT_DIR$" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="Spring MVC" type="spring-mvc">
+    <CLASSES>
+      <root url="jar://E:/Library/javaJar/spring/aspectjweaver.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/commons-logging-1.1.1.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-aop-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-aspects-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-beans-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-context-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-context-support-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-core-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-expression-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-instrument-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-instrument-tomcat-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-jdbc-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-jms-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-messaging-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-orm-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-oxm-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-test-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-tx-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-web-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-webmvc-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-webmvc-portlet-4.3.4.RELEASE.jar!/" />
+      <root url="jar://E:/Library/javaJar/spring/spring-websocket-4.3.4.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
